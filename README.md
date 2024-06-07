@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh Raj Pandit</h1>
 <h3 align="center">A passionate frontend developer & social-worker from Nepal.</h3>
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/1u01IRKm3cKUH4GU1U/video" width="480"></iframe></div>
+<div style="width:480"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/1u01IRKm3cKUH4GU1U/video" width="480"></iframe></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheessh&label=Profile%20views&color=0e75b6&style=flat" alt="maheessh" /> </p>
 
