@@ -64,6 +64,6 @@
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love badge"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by coffee badge"/>
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with markdown badge"/>
+  <img src="https://forthebadge.com/images/featured/featured-powered-by-electricity.svg" alt="Powered by Electricity"/>
+  
 </p>
