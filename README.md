@@ -65,5 +65,5 @@
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love badge"/>
   <img src="https://forthebadge.com/images/featured/featured-powered-by-electricity.svg" alt="Powered by Electricity"/>
-  
+  <img src="https://forthebadge.com/images/badges/it-works-dont-ask-me-how.svg" alt="Dont ask me how"/>
 </p>
