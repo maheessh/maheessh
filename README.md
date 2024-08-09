@@ -8,7 +8,7 @@
 
 ### 💡 About Me:
 - 🚀 Currently elevating **Uunchai** to the `next_level.js`
-- 🔥 Passionate about **AI**, **Machine Learning**, and **Web Development**
+- 🔥 Passionate about **AI**, **Assistive Technology**, and **Web Development**
 - 💻 Check out my portfolio: [maheshpandit.com.np](https://maheshpandit.com.np)
 - 💬 Open to questions on **anything tech-related** - let's connect!
 
