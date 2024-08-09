@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mahesh 👋</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif" alt="coding" width="600"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnIxYm01MGhsbDFwcG5ub3Y5YnNxdHFjMWZwMml1MHk3dWhjNW82ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tdiov7GSG9oxY6u9zF/giphy.gif" alt="coding" width="600"/>
 </p>
 
 ---
