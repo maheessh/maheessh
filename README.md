@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/maheshpandit2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:maheshpandit1109@gmail.com" target="_blank">
+  <a href="mailto:maheshpandit@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/maheessh" target="_blank">
@@ -59,19 +59,22 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=maheessh&theme=vue&hide_border=false&count_private=true" 
-    width="400px"
+    src="https://github-readme-stats.vercel.app/api?username=maheessh&show_icons=true&theme=vue"
+    width="400"
+    alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=maheessh&theme=vue&hide_border=false" 
-    width="400px"
+    src="https://streak-stats.demolab.com?user=maheessh&theme=vue"
+    width="400"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheessh&theme=vue&layout=compact&hide_border=false" 
-    width="400px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheessh&layout=compact&theme=vue"
+    width="400"
+    alt="Top Languages"
   />
 </p>
 
