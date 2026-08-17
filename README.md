@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maheessh/maheessh/main/banner.svg" alt="Mahesh Raj Pandit — AI Engineer" width="100%" />
+  <img src="banner.svg" alt="Mahesh Raj Pandit — AI Engineer" width="100%" />
 </div>
 
 <div align="center">
@@ -58,12 +58,12 @@ I also founded **[Uunchai.org](https://uunchai.org)**, an open-source effort sca
 
 ## Send up the signal
 
-Open to AI engineering roles and internships, and happy to talk about open-source work or an early-stage idea you're trying to get off the ground.
+Open to AI/Software engineering roles and internships, and happy to talk about open-source work or an early-stage idea you're trying to get off the ground.
 
 |  |  |
 |---|---|
-| **Best for** | AI engineering roles, ML/CV contract work, open-source collaboration |
-| **Reach me** | [maheshpandit@gmail.com](mailto:maheshpandit@gmail.com) · [LinkedIn](https://linkedin.com/in/maheshpandit2) |
+| **Best for** | AI engineering & Software Engineering roles, TME, ML/CV contract work, open-source collaboration |
+| **Reach me** | [LinkedIn](https://linkedin.com/in/maheshpandit2) |
 | **More work** | [maheshpandit.com.np](https://maheshpandit.com.np) |
 | **Response time** | Usually within a day |
 
@@ -73,15 +73,13 @@ Open to AI engineering roles and internships, and happy to talk about open-sourc
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheessh&show_icons=true&theme=transparent&hide_border=true&title_color=C81A20&icon_color=C81A20&text_color=8b949e)](https://github.com/maheessh)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheessh&layout=compact&theme=transparent&hide_border=true&title_color=C81A20&text_color=8b949e)](https://github.com/maheessh)
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=maheessh&theme=transparent&hide_border=true&title_color=C81A20&text_color=8b949e&icon_color=C81A20)](https://github.com/maheessh)
 
 <br/>
-
-![Profile Views](https://visitcount.itsvg.in/api?id=maheessh&icon=0&color=12)
-
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/155/15522.gif" alt="Mahesh Raj Pandit — AI Engineer" width="100%" />
+</div>
 </div>
