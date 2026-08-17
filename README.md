@@ -82,7 +82,7 @@ Open to AI/Software engineering roles and internships, and happy to talk about o
 
 <div align="center">
   <a href="https://github.com/maheessh">
-    <img src="https://streak-stats.demolab.com?user=maheessh&theme=transparent&hide_border=true&title_color=C81A20&text_color=8b949e&icon_color=C81A20" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=maheessh&theme=transparent&hide_border=true&title_color=C81A20&text_color=8b949e&icon_color=C81A20" alt="GitHub Streak" />
   </a>
 </div>
 
