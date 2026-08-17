@@ -23,9 +23,8 @@
 ### 💡 About Me
 
 - 🎓 **Senior at Southeastern Louisiana University** | B.S. Computer Science, Minor in Finance.
-- 💼 **Associate AI Engineer** | Currently building agentic workflows, custom computer vision models, and data scraping pipelines.
+- 💼 **AI/Software Engineer** | Currently building agentic workflows, custom computer vision models, and data scraping pipelines.
 - 🚀 **Founder of [Uunchai.org](https://uunchai.org)** | Scaling open-source, AI-driven educational software to make a difference for kids.
-- 🏗️ **Currently Building** | **LenderCap** (a B2B search engine) and tackling systems migration architectures.
 - 🤝 **Previously** | AI Engineering Intern at **ThriveScholars** and **Stuller, Inc.**
 - 💬 Always happy to talk about tech, open-source projects, or new startup ideas.
 
