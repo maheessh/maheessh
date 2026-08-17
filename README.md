@@ -54,23 +54,20 @@
 
 ---
 
+
 ### 📊 GitHub Analytics
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=maheessh&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e" alt="GitHub Stats" />
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheessh&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maheessh&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" alt="GitHub Streak" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheessh&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e)](https://github.com/maheessh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheessh&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e)](https://github.com/maheessh)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=maheessh&icon=0&color=8" alt="Profile Views"/>
-</p>
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=maheessh&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF)](https://github.com/maheessh)
+
+<br/>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=maheessh&icon=0&color=8)
+
+</div>
