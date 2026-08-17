@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Mahesh+Raj+Pandit;Associate+AI+Engineer;Full-Stack+Architect;STEM+Education+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I%27m+Mahesh+Raj+Pandit;Associate+AI+Engineer;Full-Stack+Architect;STEM+Education+Advocate" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 - 🎓 **Senior at Southeastern Louisiana University** | B.S. Computer Science, Minor in Finance.
 - 💼 **Associate AI Engineer** | Currently building agentic workflows, custom computer vision models, and data scraping pipelines.
-- 🚀 **Founder of [Uunchai.org]** | Scaling open-source, AI-driven educational software to make a difference for kids.
+- 🚀 **Founder of [Uunchai.org](https://uunchai.org)** | Scaling open-source, AI-driven educational software to make a difference for kids.
 - 🏗️ **Currently Building** | **LenderCap** (a B2B search engine) and tackling systems migration architectures.
 - 🤝 **Previously** | AI Engineering Intern at **ThriveScholars** and **Stuller, Inc.**
 - 💬 Always happy to talk about tech, open-source projects, or new startup ideas.
