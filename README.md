@@ -1,72 +1,87 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=32&pause=1000&color=E23636&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%95%B7%EF%B8%8F+I%27m+Mahesh+Raj+Pandit;Your+Friendly+Neighborhood+AI+Engineer;Swinging+Through+Complex+Codebases;Saving+Projects+From+Afar" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/maheessh/maheessh/main/banner.svg" alt="Mahesh Raj Pandit — AI Engineer" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=800&size=26&pause=1200&color=C81A20&center=true&vCenter=true&width=820&lines=Agentic+workflows+that+actually+ship;Computer+vision+on+real-world+data;Pipelines+that+hold+up+under+load" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>With great data comes great responsibility. Catching bugs, webbing together scalable architecture, and delivering intelligent AI solutions to save the day.</em>
+  <em>With great data comes great responsibility.</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/maheshpandit2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://maheshpandit.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/The_Daily_Bugle_(Portfolio)-E23636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-C81A20?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/maheshpandit2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-15171C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:maheshpandit@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Send_The_Signal_(Email)-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-15171C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <br/>
 
-### 🏙️ Base of Operations
+## Base of operations
 
-- 🎓 **Academic HQ:** Senior at Southeastern Louisiana University | B.S. Computer Science, Minor in Finance.
-- 🕸️ **Friendly Neighborhood AI Engineer:** Currently building agentic workflows, custom computer vision models, and data scraping pipelines to solve complex business problems.
-- 🕷️ **Hero Work:** Founder of **[Uunchai.org](https://uunchai.org)** | Scaling open-source, AI-driven educational software to make a real difference for kids.
-- 🦸‍♂️ **Past Missions:** AI Engineering Intern at **ThriveScholars** and **Stuller, Inc.**
-- 🚨 **Got a problem?** Send up the signal. Always ready to swing in and chat about tech, open-source projects, or rescuing new startup ideas.
+Senior at Southeastern Louisiana University, studying computer science with a finance minor. Day to day I build agentic workflows, custom computer vision models, and data scraping pipelines for messy business problems.
 
----
+I also founded **[Uunchai.org](https://uunchai.org)**, an open-source effort scaling AI-driven educational software for kids. Before that: AI engineering internships at **Thrive Scholars** and **Stuller, Inc.**
 
-### 🎒 The Spider-Suit Arsenal
+<br/>
 
-**🧠 Spider-Sense (AI & Machine Learning)** <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white"/>
+## The arsenal
 
-**🕸️ Web-Shooters (Frontend & Mobile)** <br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+**AI and machine learning** <br>
+<img src="https://img.shields.io/badge/Python-15171C?style=flat-square&logo=python&logoColor=C81A20"/>
+<img src="https://img.shields.io/badge/PyTorch-15171C?style=flat-square&logo=pytorch&logoColor=C81A20"/>
+<img src="https://img.shields.io/badge/LangChain-15171C?style=flat-square&logo=langchain&logoColor=C81A20"/>
 
-**🏢 The Infrastructure (Backend & Data)** <br>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+**Frontend and mobile** <br>
+<img src="https://img.shields.io/badge/TypeScript-15171C?style=flat-square&logo=typescript&logoColor=C81A20"/>
+<img src="https://img.shields.io/badge/Next.js-15171C?style=flat-square&logo=next.js&logoColor=C81A20"/>
+<img src="https://img.shields.io/badge/React-15171C?style=flat-square&logo=react&logoColor=C81A20"/>
+<img src="https://img.shields.io/badge/Flutter-15171C?style=flat-square&logo=flutter&logoColor=C81A20"/>
 
-**🎨 Suit Design (UI/UX)** <br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+**Backend and data** <br>
+<img src="https://img.shields.io/badge/C++-15171C?style=flat-square&logo=c%2B%2B&logoColor=C81A20"/>
+<img src="https://img.shields.io/badge/Java-15171C?style=flat-square&logo=java&logoColor=C81A20"/>
+<img src="https://img.shields.io/badge/Firebase-15171C?style=flat-square&logo=firebase&logoColor=C81A20"/>
+<img src="https://img.shields.io/badge/Vercel-15171C?style=flat-square&logo=vercel&logoColor=C81A20"/>
 
----
+**Design** <br>
+<img src="https://img.shields.io/badge/Figma-15171C?style=flat-square&logo=figma&logoColor=C81A20"/>
 
-### 📊 Hero Analytics (GitHub Stats)
+<br/>
+
+## Send up the signal
+
+Open to AI engineering roles and internships, and happy to talk about open-source work or an early-stage idea you're trying to get off the ground.
+
+|  |  |
+|---|---|
+| **Best for** | AI engineering roles, ML/CV contract work, open-source collaboration |
+| **Reach me** | [maheshpandit@gmail.com](mailto:maheshpandit@gmail.com) · [LinkedIn](https://linkedin.com/in/maheshpandit2) |
+| **More work** | [maheshpandit.com.np](https://maheshpandit.com.np) |
+| **Response time** | Usually within a day |
+
+<br/>
+
+## Analytics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheessh&show_icons=true&theme=transparent&hide_border=true&title_color=E23636&icon_color=2563EB&text_color=8b949e)](https://github.com/maheessh)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheessh&layout=compact&theme=transparent&hide_border=true&title_color=E23636&text_color=8b949e)](https://github.com/maheessh)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheessh&show_icons=true&theme=transparent&hide_border=true&title_color=C81A20&icon_color=C81A20&text_color=8b949e)](https://github.com/maheessh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheessh&layout=compact&theme=transparent&hide_border=true&title_color=C81A20&text_color=8b949e)](https://github.com/maheessh)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=maheessh&theme=transparent&hide_border=true&title_color=E23636&text_color=8b949e&icon_color=2563EB)](https://github.com/maheessh)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maheessh&theme=transparent&hide_border=true&title_color=C81A20&text_color=8b949e&icon_color=C81A20)](https://github.com/maheessh)
 
 <br/>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=maheessh&icon=0&color=8)
+![Profile Views](https://visitcount.itsvg.in/api?id=maheessh&icon=0&color=12)
 
 </div>
